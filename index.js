@@ -1,3 +1,7 @@
-add(a, b){
-  a + b 
-}
+add()
+
+subtract()
+
+multiply()
+
+divide()
